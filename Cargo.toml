@@ -1,0 +1,8 @@
+[package]
+name = "pinyin"
+version = "0.0.1"
+authors = ["mozillazg <mozillazg101@gmail.com>", "Luozijun <luozijun.assistant@gmail.com>"]
+license = "MIT"
+keywords = ["pinyin", "hanzi", "Chinese"]
+
+[dependencies]
